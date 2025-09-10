@@ -40,4 +40,3 @@ Special thanks to [tennc](https://github.com/tennc) and other researchers who ma
 
 ## 📜 License
 All included resources retain their **original licenses**.  
-This collection itself is provided under [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html), in line with the main source repository.
